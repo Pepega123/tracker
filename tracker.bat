@@ -1,1 +1,0 @@
-python "C:\Users\admin\Documents\tracker\main.py"
